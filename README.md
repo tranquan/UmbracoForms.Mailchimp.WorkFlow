@@ -31,7 +31,7 @@ To generate a new nuget package
 - Check dependencies list & update it if needed. `nuget` doesn't automatically generate the dependencies list
 - Run command in Package Console Management
 ```sh
-nuget pack UFMailchimpWorkFlowType/UFMailchimpWorkFlowType.csproj.nuspec
+./nuget pack UFMailchimpWorkFlowType/UFMailchimpWorkFlowType.csproj.nuspec
 ```
 
 ** Notes **
